@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+  <title id="t">Asfaw Gedamu</title>
+  <desc id="d">ML for Tigrinya, backend engineering and technical training. A grid of squares echoes the Ge'ez script chart, with one square highlighted.</desc>
+  <rect width="1200" height="280" fill="#ECEFEA"/>
+
+  <text x="64" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="-1" fill="#17262A">Asfaw Gedamu</text>
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#17262A" font-size="26">
+    <text x="64" y="160">ML for Tigrinya. Backend engineering.</text>
+    <text x="64" y="194">Technical training at scale.</text>
+  </g>
+  <rect x="64" y="216" width="96" height="4" fill="#B3261E"/>
+  <text x="64" y="254" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#516064">92.98% accuracy on Tigrinya dialect identification.</text>
+
+  <!-- 7 x 4 grid, echoing the rows and columns of the Ge'ez script chart -->
+  <g transform="translate(782 36)">
+    <rect x="-18" y="-18" width="416" height="236" rx="14" fill="#E1E6E0" stroke="#C5CEC8" stroke-width="2"/>
+    <g>
+      <rect x="0" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="56" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="112" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="168" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="224" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="280" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="336" y="0" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="0" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="56" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="112" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="168" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="224" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="280" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="336" y="52" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="0" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="56" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="112" y="104" width="44" height="44" rx="6" fill="#B3261E"/>
+      <rect x="168" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="224" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="280" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="336" y="104" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="0" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="56" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="112" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="168" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="224" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="280" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+      <rect x="336" y="156" width="44" height="44" rx="6" fill="#9FADA6"/>
+    </g>
+  </g>
+</svg>
