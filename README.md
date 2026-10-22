@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.svg" alt="Asfaw Gedamu: ML for Tigrinya, backend engineering, technical training" width="100%">
+</p>
+
 # 🖐️ Hi, I'm Asfaw Gedamu
 
 **Enterprise Tech Learning Strategist | Senior ML Engineer | Backend Architect**
